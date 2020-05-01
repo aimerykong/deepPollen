@@ -1,4 +1,4 @@
-# Reconstructing the Cenozoic Story of the Pollen Striatopollis Catatumbus (Amherstieae, Fabaceae) using Convolutional Neural Nets
+# Reconstructing the Cenozoic Story of the Pollen Striatopollis Catatumbus (Amherstieae, Fabaceae) using CNN
 
 **Authors**: Ingrid C. Romero, Shu Kong, Charless C. Fowlkes, Michael A. Urban, Carlos Jaramillo, Francisca Oboh-Ikuenobe, Carlos D'Apolito, Surangi W. Punyasena
 
