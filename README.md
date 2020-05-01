@@ -4,7 +4,7 @@
 
 *last edited*: May 1, 2020 (this repository is being actively updated)
 
-
+**Note**:
 This is the codebase/software for our work as titled. The models can be found from the [google drive](https://drive.google.com/open?id=1Qx5tEvGN5OKvTUt1s9u3a8LL4STXuHjt). Please put them under "./demo_step002_testing/models" to run it. 
 
 
