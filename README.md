@@ -2,7 +2,7 @@
 
 Ingrid C. Romero, Shu Kong, Charless C. Fowlkes, Michael A. Urban, Carlos Jaramillo, Francisca Oboh-Ikuenobe, Carlos D'Apolito, Surangi W. Punyasena
 
-last edited: May 1, 2020 (this repository is being actively updated)
+Some Markdown text with <span style="color:blue">some *blue* text</span>.last edited: May 1, 2020 (this repository is being actively updated)
 
 
 This is the codebase/software for our work "Reconstructing the Cenozoic expansion and diversification of the pollen morphospecies Striatopollis catatumbus (Amherstieae, Fabaceae) using convolutional neural networks".
