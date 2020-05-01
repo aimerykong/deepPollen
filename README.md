@@ -4,11 +4,18 @@
 
 **Last edited**: May 1, 2020 (this repository is being actively updated)
 
+![alt text](./splash_fig.png "display")
+
+
+
 **Note**:
 This is the codebase/software for our work as titled. The models can be found from the [google drive](https://drive.google.com/open?id=1Qx5tEvGN5OKvTUt1s9u3a8LL4STXuHjt). Please put them under "./demo_step002_testing/models" to run it. 
 
+**Keywords**: 
+Airyscan microscopy, automated classification, Detarioideae, machine learning, palynology.
 
-![alt text](./splash_fig.png "display")
+**Significance Statement**: 
+We demonstrate that combining optical superresolution imaging with deep learning classification methods increases the speed and accuracy of assessing the natural affinities of fossil pollen taxa. We show that it is possible to taxonomically separate pollen grains that appear morphologically similar under standard light microscopy based on nanoscale variation in pollen shape, texture, and wall structure. Using a single pollen morphospecies, Striatopollis catatumbus, we show that nanoscale morphological variation within the fossil taxon is linked to phylogenetic diversification and coincides with paleobiogeographic distributions. This new approach greatly enhances the use of pollen data in ecological and evolutionary research.
 
 
 ## Abstract
