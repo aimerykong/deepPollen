@@ -4,7 +4,7 @@
 
 **Last edited**: May 1, 2020 (this repository is being actively updated)
 
-![alt text](./splash_fig.png "display")
+![alt text](./tmp/splash_fig.png "display")
 
 
 
