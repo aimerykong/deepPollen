@@ -1,19 +1,8 @@
-# Pollen Identification with Airyscan Imaging 
-
-This is a demo for pollen identification over scanned data by Airyscan imaging.
-The demo is expected to be used in a clowder repository.
-
-The data, complete code and models are stored at the following google drive:
-https://github.com/aimerykong/future_propagation_with_regulatedPFF.git
+This readme file will be updated towards guidelines.
 
 MatConvNet toolbox is used here. It is required to compile it properly by considering wheter to use
 GPU, CUDA, CUDNN and others. Please refer to its official website as below--
 http://www.vlfeat.org/matconvnet/install/
 
-The dataset is prepared by Ingrid Romero.
 
-
-
-Shu Kong @ UCI
-aimerykong@gmail.com
-April 28, 2019
+last update: May 1, 2020
