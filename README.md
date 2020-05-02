@@ -3,7 +3,7 @@
 
 **Authors**: Ingrid C. Romero, Shu Kong, Charless C. Fowlkes, Michael A. Urban, Carlos Jaramillo, Francisca Oboh-Ikuenobe, Carlos D'Apolito, Surangi W. Punyasena
 
-**Last edited**: May 1, 2020 (this repository is being actively updated)
+**Last edited**: May 1, 2020 (*this repository is being actively updated*)
 
 ![alt text](./tmp/splash_fig.png "display")
 
