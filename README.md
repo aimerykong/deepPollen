@@ -1,4 +1,4 @@
-## Reconstructing the Cenozoic Story of the Pollen Striatopollis Catatumbus 
+# Deep Learning for Automated Identification of Deep-Time Fossil Pollen of Angiosperms
 
 
 **Authors**: Ingrid C. Romero, Shu Kong, Charless C. Fowlkes, Michael A. Urban, Carlos Jaramillo, Francisca Oboh-Ikuenobe, Carlos D'Apolito, Surangi W. Punyasena
