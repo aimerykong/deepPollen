@@ -29,5 +29,5 @@ Taxonomic resolution is a major challenge in palynology, largely limiting the ec
 
 #
 ###
-
+modified on July 24, 2020 (to be updated)
 contact: [Shu Kong](http://www.cs.cmu.edu/~shuk/)
