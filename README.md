@@ -27,11 +27,11 @@ Taxonomic resolution is a major challenge in palynology, largely limiting the ec
 ## Code guideline
 There are two folders in thie repository.
 
-1. [data processing](./demo_step001_processing) contains a set of processing steps such as segmentation of foreground pollen grains, rotating the grain to upright canonical viewpoint, max-projection, etc. Please go to this folder and refer to the readme file for details.
+1. [**Data Processing**](./demo_step001_processing) contains a set of processing steps such as segmentation of foreground pollen grains, rotating the grain to upright canonical viewpoint, max-projection, etc. Please go to this folder and refer to the readme file for details.
 
-2. [training](./demo_step002_training) contains scripts that train the three models described in the paper. There are a few data samples that the code can run on them smoothly.
+2. [**Training**](./demo_step002_training) contains scripts that train the three models described in the paper. There are a few data samples that the code can run on them smoothly.
 
-3. [testing](./demo_step003_testing) shows how we run the trained models during testing. The three types of trained models can be downloaded in the [google drive](https://drive.google.com/open?id=1Qx5tEvGN5OKvTUt1s9u3a8LL4STXuHjt). Please put them under "./demo_step003_training/models" to run them. 
+3. [**Testing**](./demo_step003_testing) shows how we run the trained models during testing. The three types of trained models can be downloaded in the [google drive](https://drive.google.com/open?id=1Qx5tEvGN5OKvTUt1s9u3a8LL4STXuHjt). Please put them under "./demo_step003_training/models" to run them. 
 
 
 #
