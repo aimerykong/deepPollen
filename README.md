@@ -1,6 +1,8 @@
 ## DeepPollen: Automated Identification of Deep-Time Fossil Pollen of Angiosperms
 
-Data and models are hosted in [google drive](https://drive.google.com/open?id=1Qx5tEvGN5OKvTUt1s9u3a8LL4STXuHjt)
+Models are hosted in [google drive](https://drive.google.com/open?id=1Qx5tEvGN5OKvTUt1s9u3a8LL4STXuHjt)
+
+Data are hosted in the Illinois Databank.
 
 **Authors**: Ingrid C. Romero, Shu Kong, Charless C. Fowlkes, Michael A. Urban, Carlos Jaramillo, Francisca Oboh-Ikuenobe, Carlos D'Apolito, Surangi W. Punyasena
 
