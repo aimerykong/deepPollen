@@ -27,6 +27,14 @@ Taxonomic resolution is a major challenge in palynology, largely limiting the ec
 
 
 
+## Code guideline
+There are two folders in thie repository.
+
+1. [demo_step001_processing](./demo_step001_processing)
+
+2. [demo_step002_testing](./demo_step002_testing)
+
+
 #
 ###
 modified on July 24, 2020 (to be updated)
