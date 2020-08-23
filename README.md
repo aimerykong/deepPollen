@@ -1,4 +1,4 @@
-## DeepPollen: Automated Identification of Deep-Time Fossil Pollen of Angiosperms
+## Improving the taxonomy of fossil pollen using convolutional neural networks and superresolution microscopy
 
 Models and data are hosted in [google drive](https://drive.google.com/open?id=1Qx5tEvGN5OKvTUt1s9u3a8LL4STXuHjt)
 and [Illinois Databank](https://databank.illinois.edu) (to be updated).
