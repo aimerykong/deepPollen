@@ -1,4 +1,4 @@
-## Improving the taxonomy of fossil pollen using convolutional neural networks and superresolution microscopy
+## Improving the Taxonomy of Fossil Pollen using Convolutional Neural Networks and Superresolution Microscopy
 
 Models and data are hosted in [google drive](https://drive.google.com/open?id=1Qx5tEvGN5OKvTUt1s9u3a8LL4STXuHjt)
 and [Illinois Databank](https://databank.illinois.edu) (to be updated).
