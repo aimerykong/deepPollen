@@ -5,6 +5,14 @@ and [Illinois Databank](https://databank.illinois.edu) (to be updated).
 
 **Authors**: Ingrid C. Romero, Shu Kong, Charless C. Fowlkes, Michael A. Urban, Carlos Jaramillo, Francisca Oboh-Ikuenobe, Carlos D'Apolito, Surangi W. Punyasena
 
+    @article{deepPollen,
+      title={Improving the Taxonomy of Fossil Pollen using Convolutional Neural Networks and Superresolution Microscopy},
+      author={Romero, Ingrid C. and Kong, Shu and Fowlkes, Charless C. and Jaramillo, Carlos and Urban, Michael A. and Oboh-Ikuenobe, Francisca and D’Apolito, Carlos and Punyasena, Surangi W.},
+      journal={Proceedings of the National Academy of Sciences (PNAS)},
+      year={2020}
+    }
+
+
 **Last edited**: Sep. 16, 2020 (*this repository is being actively updated*)
 
 ![alt text](./tmp/splash_fig.png "display")
@@ -36,16 +44,6 @@ There are two folders in thie repository.
 3. [**Testing**](./demo_step003_testing) shows how we run the trained models during testing. The three types of trained models can be downloaded in the [google drive](https://drive.google.com/open?id=1Qx5tEvGN5OKvTUt1s9u3a8LL4STXuHjt). Please put them under "./demo_step003_training/models" to run them. 
 
 
-## To cite
-
-Please refer to our paper for details:
-
-    @article{deepPollen,
-      title={Improving the Taxonomy of Fossil Pollen using Convolutional Neural Networks and Superresolution Microscopy},
-      author={Romero, Ingrid C. and Kong, Shu and Fowlkes, Charless C. and Jaramillo, Carlos and Urban, Michael A. and Oboh-Ikuenobe, Francisca and D’Apolito, Carlos and Punyasena, Surangi W.},
-      journal={Proceedings of the National Academy of Sciences (PNAS)},
-      year={2020}
-    }
 
 #
 ###
