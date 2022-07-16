@@ -1,6 +1,6 @@
 ## Improving the Taxonomy of Fossil Pollen using Convolutional Neural Networks and Superresolution Microscopy
 
-[PNAS paper](https://www.pnas.org/doi/10.1073/pnas.2007324117) [NSF News](https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301568&org=NSF&from=news)
+[[PNAS paper](https://www.pnas.org/doi/10.1073/pnas.2007324117)] [[NSF News](https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301568&org=NSF&from=news)]
 
 
 Models and data are hosted in [google drive](https://drive.google.com/open?id=1Qx5tEvGN5OKvTUt1s9u3a8LL4STXuHjt)
